@@ -1,0 +1,20 @@
+<ROOT>
+    <xml-user>
+        <id>1</id>
+        <name>toto</name>
+        <age>21</age>
+        <description>DESCRIPTION toto</description>
+    </xml-user>
+    <xml-user>
+        <id>2</id>
+        <name>titi</name>
+        <age>22</age>
+        <description>DESCRIPTION titi</description>
+    </xml-user>
+    <xml-user>
+        <id>3</id>
+        <name>tutu</name>
+        <age>23</age>
+        <description>DESCRIPTION tutu</description>
+    </xml-user>
+</ROOT>
